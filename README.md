@@ -1,7 +1,7 @@
 # bd-dialect-detector
 This program was developed during Bangladeshi dialect recognition research.
 
-The methodology and experimental details have been published in following paper: <br/>
+The methodology and experimental details have been published in the following paper: <br/>
 <b>Bangladeshi Dialect Recognition using Mel Frequency Cepstral Coefficient, Delta, Delta-delta and Gaussian Mixture Model.</b><br/>
 Authors: Pronaya Prosun Das, Shaikh Muhammad Allayear, Ruhul Amin and Zahida Rahman<br/>
 Conference: Eighth International Conference on Advanced Computational Intelligence (ICACI), Chiang Mai, 2016.<br/>

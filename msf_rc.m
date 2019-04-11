@@ -15,7 +15,7 @@
 % along with Bangladeshi Dialect Detector.  
 % If not, see <https://www.gnu.org/licenses/>.
 
-% The methodology and experimental details have been published in following paper:
+% The methodology and experimental details have been published in the following paper:
 % Bangladeshi Dialect Recognition using Mel Frequency Cepstral Coefficient, 
 % Delta, Delta-delta and Gaussian Mixture Model, DOI: 10.1109/ICACI.2016.7449852
 % https://ieeexplore.ieee.org/abstract/document/7449852
